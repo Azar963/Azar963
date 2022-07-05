@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Azar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱  I'm currently learning**Data Science, Machine Learning, AI**
+- 🌱  I'm currently learning **Data Science, Machine Learning, AI**
 
 - 💬 Ask me about **Data Science, ML, AI**
 
